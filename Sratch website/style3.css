@@ -1,0 +1,13 @@
+ body{
+    background-color: gray;
+ }
+
+p{
+    padding:30px;
+    border:1px solid black;
+    margin:50px;
+}
+
+h1{
+    color:rgba(255,99,71);
+} 
